@@ -1,1 +1,1 @@
-# spec
+# spec CPU2006
